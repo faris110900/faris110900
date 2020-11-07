@@ -1,4 +1,4 @@
-### Hello, there! 
+### Hello, there i am Faris Rizqilail! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hallo i am a web developer based in Surabaya, Indonesia. I'm interested in UI/UX Designer and web development, I'm also interested in web technologies.
 
