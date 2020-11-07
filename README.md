@@ -1,4 +1,4 @@
-### HI There farisqlail 
+### Hello, there! 
 
 Hallo i am a web developer based in Surabaya, Indonesia. I'm interested in UI/UX Designer and web development, I'm also interested in web technologies.
 
