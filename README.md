@@ -1,4 +1,4 @@
-### HI There farisqlail https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### HI There farisqlail 
 
 Hallo i am a web developer based in Surabaya, Indonesia. I'm interested in UI/UX Designer and web development, I'm also interested in web technologies.
 
